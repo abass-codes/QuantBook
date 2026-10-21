@@ -1,0 +1,3 @@
+# Exclude Jupyter notebooks from GitHub language statistics.
+# Preserve notebook files and their functionality.
+*.ipynb linguist-detectable=false
