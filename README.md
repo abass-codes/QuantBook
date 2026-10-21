@@ -1,4 +1,4 @@
-# lob-engine
+# QuantBook
 
 [![CI](https://github.com/abass-codes/QuantBook/actions/workflows/ci.yml/badge.svg)](https://github.com/abass-codes/QuantBook/actions/workflows/ci.yml)
 
